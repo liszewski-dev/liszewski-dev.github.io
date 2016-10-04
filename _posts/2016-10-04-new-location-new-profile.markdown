@@ -5,8 +5,8 @@ date:   2016-10-04 13:42:02 -0400
 categories: General, ISP
 ---
 
-This is the start of a new blog to compliment my new residence. As I move into a small beach hamlet an hours venture from New York. The mounting tower of tasks to be completed keep on accumulating on a whiteboard hung in the kitchen.
+This is the start of a new blog to compliment my new residence. I have moved into a small beach hamlet an hours venture from New York. The scene is optimistic even as the mounting tower of tasks to be completed accumulate on a whiteboard hung in the kitchen.
 
-Priorities are followed in the only way possible, in order of practicality. Rest can not be satisfactory without work. Work can't be completed in an orderly fashion without an office. The office desk sits as a pile of raw material sourced from a lumber yard. But there is no need for an office if computers are not configured. Configuring requires some installation from software sources. And that requires hours of prodding and negotiation with the current internet connection drawn into the house.
+Tasks of priority are followed in the only way possible. Inroads taken in any possible direction. As rest can not be satisfactory without work. Work can't be completed orderly without an office. Life waits for no convenience nor courtesy. As the desk for our office sits as a pile of raw material sourced from a lumber yard it bears reflection to projects in mid stride, also being pieced together. But what need is there for an office if computers are not configured. Configuring requires some installation from software sources. And that requires hours of prodding and negotiation with the internet connection drawn into the house.
 
-Efforts to manipulate DNS routes and Sync speed have had little effect. For now I need to consign myself that a 0.5 Mbps down and 0.3 up is acceptable when living by the Jersey shore.
+Efforts to manipulate DNS routes and Sync speed have had little effect. For now I need to consign myself that speed of life sits at 0.5 Mbps down and 0.3 up in remote office/bedroom and behind impromptu standing desks is ok.
