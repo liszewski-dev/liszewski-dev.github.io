@@ -11,6 +11,6 @@ email: liszewski.dev@gmail.com
 description: All things unix.
 baseurl: "https://liszewski-dev.github.io/" # the subpath of your site, e.g. /blog
 url: "https://liszewski-dev.github.io/" # the base hostname & protocol for your site
-
+footer: Giving positive meaning to absurdity
 # Build settings
 markdown: kramdown
