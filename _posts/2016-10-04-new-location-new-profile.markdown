@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "A new location and a new blog"
 date:   2016-10-04 13:42:02 -0400
